@@ -1,0 +1,6 @@
+{
+  "description": "A web app that uses Gemini AI to generate a textual description of a 3D model based on a user's search query.",
+  "prompt": "Make a web app that when you search, an ai will find the first 3d model that comes to that.",
+  "requestFramePermissions": [],
+  "name": "App"
+}
